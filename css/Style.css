@@ -1,8 +1,0 @@
-
-/*comment like this*/
-
-h1{
-    color: yellow;
-}
-/*if we want section followed by para just write section p,all the p in that section would have that style . if section>p then only direct descantant/child of section will have the style
-*/
